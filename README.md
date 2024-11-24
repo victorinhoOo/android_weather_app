@@ -1,20 +1,30 @@
-# Application météo Android
+# Android Weather Application
 
-L'application météo est une application mobile Android permettant de visualiser la météo par géolocalisation ou en renseignant un emplacement particulier.
-Les informations affichées incluent : 
-- Le temps (neige, pluie, orage etc) grâce à un dessin.
-- La température.
-- Le taux d'humidité.
-- La force et la direction du vent.
-- Le taux de précipitation.
+[🇬🇧 English](README.md) | [🇫🇷 Français](README.fr.md)
 
-# Fabriqué avec
+---
 
-Java - Android Studio
+The weather application is an Android mobile application that displays weather information based on geolocation or a specified location.  
 
-Api utilisé : https://open-meteo.com/
+The displayed information includes:  
+- Weather conditions (snow, rain, storm, etc.) represented with an icon.  
+- Temperature.  
+- Humidity level.  
+- Wind strength and direction.  
+- Precipitation rate.  
 
-### Aperçu de l'interface :
+---
 
-![Apercu_readme.png](app%2Fsrc%2Fmain%2Fres%2Fdrawable%2FApercu_readme.png)
- 
+## Built with  
+
+**Java** - Android Studio  
+
+**API used**: [https://open-meteo.com/](https://open-meteo.com/)  
+
+---
+
+### Interface Preview:  
+
+![Interface Preview](app%2Fsrc%2Fmain%2Fres%2Fdrawable%2FApercu_readme.png)  
+
+---
